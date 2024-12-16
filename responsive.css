@@ -1,0 +1,90 @@
+@media (max-width:600px) {
+
+    .page2{
+        display: block;
+    }
+
+    .page3{
+        display: block;
+    }
+
+
+    .page4{
+        display: block;
+    }
+
+
+    .items{
+        display: none;
+    }
+
+    .ri-menu-fill{
+        display: block;
+        margin-right: 2%;
+    }
+
+
+    .buttons{
+        display: flex;
+    }
+
+
+    .lgb{
+        padding: 5px 10px;
+    }
+
+    .sib{
+        padding: 5px 4px;
+    }
+
+    .logo img{
+        height: 20px;
+    }
+
+    .items2{
+        gap: 5px;
+        margin-left: 10%;
+    }
+
+    .ri-account-circle-line{
+        font-size: 20px;
+    }
+
+    .ri-heart-line{
+        font-size: 20px;
+    }
+
+    .ri-shopping-cart-line{
+        font-size: 20px;
+    }
+
+
+    .sbc{
+        font-size: 12px;
+        margin-left: 35%;
+    }
+
+    .Products{
+        flex-direction: column;
+        align-items: center;
+        margin-top: 5%;
+    }
+
+    .products2{
+        flex-direction: column;
+        margin-top: 340%;
+        align-items: center;
+    }
+
+    .p1{
+        margin-left: 2%;
+    }
+
+    .p7{
+        margin-left: 1%;
+    }
+
+    .p6{
+        margin-left: 2%;
+    }
+}
